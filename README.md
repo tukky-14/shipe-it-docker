@@ -21,3 +21,9 @@ docker compose stop
 # デプロイメントの削除
 docker compose down
 ```
+
+### その他
+
+- 日本語化
+  - Setting > Localization > Default Language を「Japanese」に変更して保存
+  - ユーザ名 > Edit Profile > Language を「Japanese」に変更して保存
